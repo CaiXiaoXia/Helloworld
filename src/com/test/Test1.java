@@ -7,7 +7,6 @@ public class Test1 {
 		System.out.println("333");
 		System.out.println("444");
 		System.out.println("66666");
-		System.out.println("7777");
 	}
 
 }
